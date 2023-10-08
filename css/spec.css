@@ -40,3 +40,14 @@
 .synopsis a:hover {
     text-decoration: underline;
 }
+
+
+.wrapper__picture {
+    text-align: center;
+}
+
+.wrapper__picture img {
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+}
